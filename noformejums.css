@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(255, 255, 255);
+
+}
+
+
+p {
+    color: rgb(0, 0, 0);
+    margin-left:75mm;
+    margin-right: 125mm;
+    text-indent: 3em;
+    font-size: 15pt;
+    font-family: 'Dongle', sans-serif;
+}
+
+h1 {
+    color: rgb(0, 255, 255);
+    font-size: 40pt;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+    color: rgb(0, 238, 255);
+    font-size: 25pt;
+    text-align: center
+}
+
+
+.rindkopa {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.normalraksts {
+    font-style: normal;
+}
+
+#izcelts {
+    font-weight: 800;
+}
+
+.blakus {
+    width: 250px;
+    float: right;
+    margin-right: 50mm;
+}
+
+.mazaks {
+    width: 1000px;
+    margin-left: 300px;
+}
+
+
+table, tr, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    
+}
+
+ol {
+    list-style-type: upper-alpha;
+    }
+
+ul {
+    list-style-type: square;
+    }
